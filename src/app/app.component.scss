@@ -1,0 +1,26 @@
+.container {
+  width: 60rem;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header {
+  width: 100%;
+  background-color: darkcyan;
+}
+
+main {
+  width: 85%;
+  background-color: khaki;
+}
+
+aside {
+  width: 15%;
+  background-color: lightseagreen;
+}
+
+footer {
+  width: 100%;
+  background-color: rosybrown;
+}
